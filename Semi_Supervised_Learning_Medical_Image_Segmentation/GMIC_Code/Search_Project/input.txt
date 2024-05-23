@@ -1,2 +1,1 @@
-Addressing Class Imbalance in Semi-supervised
-Image Segmentation: A Study on Cardiac MRI
+Pseudo-Label Guided Contrastive Learning for Semi-Supervised Medical Image Segmentation
