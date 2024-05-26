@@ -8,7 +8,7 @@ Transfer_Learning_Note
 >
 > > 迁移学习是指将一个任务中学到的知识迁移到另一个相关任务中的技术。在图像分割中，迁移学习可以帮助解决数据量不足的问题。通常，我们可以使用一个已经在大规模数据集上训练好的模型，如ImageNet上的预训练模型，作为初始模型，然后通过微调（fine-tuning）的方式将其迁移到图像分割任务中。微调过程中，模型会在目标任务的数据集上进行训练，但会保留预训练模型的一部分权重和特征提取能力。这样做可以加快模型的收敛速度并提高性能，尤其在数据量较少的情况下。
 >
-> csdn：迁移学习（tansfer）
+> csdn：迁移学习（tansfer）***这篇比较长，写得也挺好的！***
 >
 > > https://blog.csdn.net/sikh_0529/article/details/126864397?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522171671198816800184189207%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=171671198816800184189207&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-126864397-null-null.142
 >
