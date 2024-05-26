@@ -1,5 +1,4 @@
 # DeepLearning_StudyNote
-2024.05.22 10:44
 
 我决定把所有的笔记和学习记录都开源，由于是新手，有些文献代码都是参考行内大神参考学习的，有些解释部分可能有误，既然是开源也希望能够得到pr指正。
 
@@ -18,3 +17,6 @@ I decided to make all my notes and learning records open source. Since I am a no
 What I am doing now is the direction of Curriculum Learning. Notes will be recorded every day. Once a week, I will summarize not only the study but also the life.
 
 I don’t understand the learning route very well. Thank you very much for everyone’s support and encouragement along the way!
+
+
+-***update: 2024.05.26***
