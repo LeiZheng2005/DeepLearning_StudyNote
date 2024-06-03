@@ -14,7 +14,7 @@
 >
 > 除了蓝桥杯之外，我还准备把之前学业上的笔记或者作业之类的扫描上传一下，不过比较多比较花时间，这个我会放在：
 >
-> 
+> https://github.com/LeiZheng2005/DeepLearning_StudyNote/tree/main/Course_Note
 >
 > 最后祝大家前程似锦！
 
