@@ -26,6 +26,8 @@
 
 歧义选择性一致性正则化 均值教师半监督医学图像分割 这一篇好像之前看过，先放这里，图片也找不到，引用次数25。先放着，等会补上。
 
+~~不是你咋都没看，虽然现在看来确实不需要看了，好吧2024.06.03~~
+
 ### 06.C3PS: Context-aware Conditional Cross Pseudo Supervision for Semi-supervised Medical Image Segmentation
 
 C3PS：半监督医学图像分割的上下文感知条件交叉伪监督
